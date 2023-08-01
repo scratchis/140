@@ -1,0 +1,39 @@
+.heading{
+    font-size: 50px;
+    font-weight: bold;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.note{
+    font-size: 25px;
+    font-weight: 500;
+    color: black;
+}
+body{
+    text-align: center;
+    background-image: "background.jpg";
+    background-size: cover;
+}
+.div_speed{
+    float: left;
+}
+.div_speed_img{
+    width: 200px;
+    border:100px;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+.div_song{
+    float: right;
+}
+.div_song_img{
+    width: 200px;
+    border:100px;
+}
+#song{
+    font-size: 23px;
+    margin: 15px;
+}
